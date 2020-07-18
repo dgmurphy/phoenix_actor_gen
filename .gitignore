@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+config.ini
+*.swp
+*.log
+.ropeproject
