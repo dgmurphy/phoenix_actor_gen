@@ -3,7 +3,7 @@ This is the OEDA Phoenix Pipeline configured to run in Null Actors mode and to g
 
 ### Setup
 
-```git clone https://github.com/dgmurphy/phoenix_pipeline.git```
+```git clone https://github.com/dgmurphy/phoenix_actor_gen.git```
 
 ### Create Python Environment & Install libraries
 
@@ -40,7 +40,7 @@ NOTE: To process events on the same day they were collected, set the run_date to
 ```python actor_gen.py```
 
 
-The actpr generator should produce an actor labels file e.g.
+The actor generator should produce an actor labels file e.g.
 
 `nullactors.events_null_actors_mode_20200713.txt`
 
