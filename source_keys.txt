@@ -72,6 +72,7 @@ chinapost_china
 chinapost_international
 chinapost_taiwan
 chosun
+cnn_politics
 csm_politics
 csm_usa
 csm_world
