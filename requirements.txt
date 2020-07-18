@@ -11,7 +11,7 @@ pymongo==2.7
 python-dateutil==2.2
 pytz==2015.2
 PyYAML==3.11
-requests==2.3.0
+requests==2.20.0
 six==1.6.1
 Sphinx==1.2.2
 tzlocal==1.1.3
