@@ -6,7 +6,7 @@ Jinja2==2.7.2
 MarkupSafe==0.23
 numpydoc==0.5
 pexpect==3.2
-Pygments==1.6
+Pygments==2.7.4
 pymongo==2.7
 python-dateutil==2.2
 pytz==2015.2
